@@ -1,0 +1,8 @@
+name: "my-website"
+navbar:
+  title: "US 11697993"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
