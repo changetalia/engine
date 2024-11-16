@@ -1,8 +1,10 @@
-name: "my-website"
+name: "Kuei-Yin Rotary Engine"
 navbar:
-  title: "US 11697993"
+  title: "Kuei-Yin Rotary Engine"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "Dynamite Engine"
+      href: dynamite.html
+    - text: "US 11697993"
       href: about.html
