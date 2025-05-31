@@ -1,0 +1,31 @@
+---
+title: "Dynamite Engine"
+author: "Chang et. al."
+date: "Aug 7 2023"
+output: html_document
+---
+
+Today, we are extending an opportunity to collaborate on the development of an advanced internal combustion engine, the Kuei-Yin rotary engine, a revolutionary design promising to deliver torque/power that is tens, if not hundreds, of times higher than that of traditional engines.
+
+The operational principle of the new Kuei-Yin rotary engine can be referred to in the latest edition (July 11, 2023) of the U.S. Patent Gazette, with patent number: US11697993 (US Patent Public Search [\<https://ppubs.uspto.gov/pubwebapp/static/pages/ppubsbasic.html>](https://ppubs.uspto.gov/pubwebapp/static/pages/ppubsbasic.html){.uri}). This patent was granted quickly in just over 3 months, which reflects the engine's high technical innovation and functional advantages. The utilization of the 5-stroke Kuei-Yin rotary engine can be categorized as 1) engines powered by petrochemical fuels (including gasoline and diesel) and 2) engines powered by dynamites.
+
+1.  Features of the 5-stroke Kuei-Yin rotary engine powered by petrochemical fuels:
+
+-   The cylinder structure is the same as traditional engines, so there is no issue of gas sealing, contrasting the Wankel rotary engine.
+-   The number of cylinders on the new engine equals the number of explosive forces applied to the rotor per revolution. For instance, our 8-cylinder engine applies force 8 times with each rotation, whereas a traditional engine would need 16 cylinders (a traditional single-cylinder engine explodes once every two rotations) to achieve the same effect.
+-   In traditional engines, during an explosion, the piston, connecting rod, and crankshaft form a straight line, making the space inside the cylinder a closed system, nullifying the explosive force. In the 5-stroke Kuei-Yin rotary engine, when an explosion occurs, the piston wheel moves downward along the inclined track, making the internal space an open system. This facilitates significant torque and keeps the rotor spinning at high speeds.
+-   The cylinders of the 5-stroke Kuei-Yin rotary engine can be eccentrically arranged. Based on the principle of leverage, the engine will inevitably produce huge torque.
+-   In traditional engines at high speeds, the air intake would gradually reduce as the speed increases. But in the 5-stroke Kuei-Yin rotary engine, after the intake stroke, the piston momentarily stays at the bottom of the stroke, waiting for the gas to fill the cylinder. This unique refilling stroke is why it's termed a 5-stroke engine and why it can produce higher horsepower than traditional engines at high speeds.
+
+Given the above, undoubtedly, the horsepower output of the 5-stroke Kuei-Yin rotary engine will be several times, even dozens of times higher than traditional engines. Moreover, the new engine's size and weight are much less than traditional engines, offering vast potential for military applications like armored vehicles, helicopters, etc. When combined with power systems, it can be widely used for industrial power generation. Particularly, when combined with laser weapons, it can produce even more devastating effects.
+
+2.  Features of the 5-stroke Kuei-Yin rotary engine powered by dynamites: Today, countries worldwide are actively seeking alternative energy sources, like electric car engines or hydrogen-powered systems. Due to its unique design, this engine can use high-explosive materials for propulsion. The reasons include:
+
+-   Traditional engines have very fine crankshafts incapable of handling large explosions. The new engine uses a much larger shaft, able to support high-impact explosive forces.
+-   In traditional engines, the explosion point is when the piston, connecting rod, and crankshaft align, creating a closed system in the cylinder. This makes it susceptible to catastrophic failure, especially when using explosives. In the new design, the explosion occurs when the piston is moving downwards along an inclined plane, creating an open system. At this moment, the piston is like a bullet being fired by gunpowder inside a rifle, thus the force from the explosive reaction can be effectively transferred, driving the rotor without causing the engine to explode.
+
+If the dynamite engine is successfully developed, it would mark humanity's first success in harnessing dynamite as a power source, converting chemical energy into mechanical energy. Not only could it reduce our reliance on oil, but it also could drastically improve air pollution issues and combat CO2-induced global warming.
+
+In addition to the aforementioned military applications, the development results of the dynamite engine could lead to a significant industrial revolution, such as: a) Suitable for the development of flying cars. b) Applicable for industrial power generation. c) Suitable for high-speed railways, potentially eliminating the need for expensive electrical transmission systems, substantially reducing construction costs. d) Suitable for nautical devise to increase navigational speed
+
+If your company is interested in this, as the inventor, I am eager to collaborate fully with your company. Thank you: Please contact <changetalia@gmail.com> for further information.

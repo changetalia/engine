@@ -1,0 +1,61 @@
+---
+title: "Newly-Invented Revolutionary Rotary Engines and New Jet Engines "
+---
+
+Below are two newly invented rotary engines,
+
+1.  Rotary Internal Combustion Engine
+
+2.  Rotary Steam Engine (Prototype Completed)
+
+3.  Next-Generation Jet Engine
+
+    -   By integrating a compact, lightweight rotary internal combustion engine and a high-performance air compressor with a jet engine, this invention provides the intake and compression functions required for a jet engine. This innovation will fundamentally address the shortcomings of traditional jet engines, potentially rendering them obsolete. (Detailed structure not disclosed at this time.)
+
+------------------------------------------------------------------------
+
+### [1] Rotary Internal Combustion Engine
+
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/M1RkqeR_RFc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+>
+> </iframe>
+
+------------------------------------------------------------------------
+
+### [2] Rotary Steam Engine (worldwide patterns pending)
+
+> <iframe src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2F100092148774151%2Fvideos%2F1608999996711565%2F&amp;show_text=false&amp;width=267&amp;t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true">
+>
+> </iframe>
+
+------------------------------------------------------------------------
+
+### [3] Rotary Multi-Cylinder Air Compressor (worldwide patterns pending)
+
+-   This **Rotary Multi-Cylinder Air Compressor** achieves an air-filling speed tens to hundreds of times faster than traditional air compressors. It eliminates the need for large and bulky air tanks, significantly reducing overall cost and improving practicality and convenience.
+
+> ![Eliminating Air Tanks [^1]](images/Portable_Single_Stage_Air_Compressor_v2.jpg "Eliminating Air Tanks"){width="512"}
+
+[^1]: Adapted from [Wiki: Air Compressor](https://commons.wikimedia.org/wiki/File:Portable_Single_Stage_Air_Compressor.jpg)
+
+
+### [4] Next-Generation Jet Engine (worldwide patterns pending)
+
+- The new jet engine adopts the propulsion principle of a rocket: It features a cylindrical chamber that is sealed at one end and fitted with a nozzle at the other. Using the previously described "Rotary Multi-Cylinder Air Compressor," high-speed compressed air is injected into the sealed end of the cylinder. Fuel is then introduced and ignited inside the chamber, producing high-pressure gases that are expelled at high speed through the nozzle, generating powerful thrust—just like a rocket. Traditional jet engines, with their complex structures and extremely high costs, will be completely rendered obsolete.
+    -   *Detailed structure not disclosed at this time*
+
+```{=html}
+<!---
+-   The new jet engine will significantly reduce the manufacturing cost of jet aircraft and completely eliminate the tragic incidents of engines ingesting birds or ground crew members.
+
+> ![Sketch of New Jet Engine [^2]](pic/ramjet_from_wiki_v3.png "New Jet Engine")
+
+[^2]: Adapted from [Wiki: Air Compressor](https://commons.wikimedia.org/wiki/File:Portable_Single_Stage_Air_Compressor.jpg)
+
+--->
+```
+
+### [5] Rotary Ceramic Engine with External Cylinder Combustion (worldwide patterns pending)
+
+-   This will be the most fuel-efficient, lowest-cost, and most explosively powerful internal combustion engine.
+    -   *Detailed structure not disclosed at this time*

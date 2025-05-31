@@ -1,0 +1,13 @@
+---
+title: "US 11697993"
+---
+
+Mail-to:  [changetalia@gmail.com](mailto:changetalia@gmail.com)
+
+
+<hr>
+<object data="US11697993.pdf" type="application/pdf" frameborder="0" width="100%" height="600px" style="padding: 20px;">
+  <iframe src="https://docs.google.com/viewer?url=https://changetalia.github.io/engine/US11697993.pdf&embedded=true" style="width:100%; height:600px;" frameborder="0"></iframe>    
+</object>
+     
+
