@@ -38,11 +38,22 @@ Below are two newly invented rotary engines,
 
 [^1]: Adapted from [Wiki: Air Compressor](https://commons.wikimedia.org/wiki/File:Portable_Single_Stage_Air_Compressor.jpg)
 
+[^2]: Adapted from [Wiki: Air Compressor](https://commons.wikimedia.org/wiki/File:Portable_Single_Stage_Air_Compressor.jpg)
 
 ### [4] Next-Generation Jet Engine (worldwide patterns pending)
 
-- The new jet engine adopts the propulsion principle of a rocket: It features a cylindrical chamber that is sealed at one end and fitted with a nozzle at the other. Using the previously described "Rotary Multi-Cylinder Air Compressor," high-speed compressed air is injected into the sealed end of the cylinder. Fuel is then introduced and ignited inside the chamber, producing high-pressure gases that are expelled at high speed through the nozzle, generating powerful thrust—just like a rocket. Traditional jet engines, with their complex structures and extremely high costs, will be completely rendered obsolete.
+-   The new jet engine adopts the propulsion principle of a rocket: It features a cylindrical chamber that is sealed at one end and fitted with a nozzle at the other. Using the previously described "Rotary Multi-Cylinder Air Compressor," high-speed compressed air is injected into the sealed end of the cylinder. Fuel is then introduced and ignited inside the chamber, producing high-pressure gases that are expelled at high speed through the nozzle, generating powerful thrust—just like a rocket. Traditional jet engines, with their complex structures and extremely high costs, will be completely rendered obsolete.
     -   *Detailed structure not disclosed at this time*
+
+> ![Eliminating Old Design [^3]](images/no_more_old_jet_engine.png "Eliminating Old Design"){width="512"}
+
+-   Because the new jet engine’s nozzles are virtually unrestricted in angle, aircraft equipped with it can perform vertical takeoffs and landings at any time. The era of relying on long runways for takeoff and landing will become a thing of the past.
+
+> ![Eliminating Runway ](images/no_more_runway.png "Eliminating Runway"){width="512"}
+
+
+
+[^3]: Adapted from [Wiki: Turbofan](https://en.wikipedia.org/wiki/Turbofan#/media/File:Turbofan_operation_lbp.svg)
 
 ```{=html}
 <!---
